@@ -1,0 +1,2 @@
+J'ai modifie le fichier "bonjour_threads.py" pour saluer correctement  les Mademoiselles, Madames et Monsieurs en ajoutant les Queues et en utilisant les threads.
+L'ordre de salutation est Mademoiselle, Madame, Monsieur et pour le fichier "process_threads.py" j'ai utlise la meme methode en utilisant des processus.
