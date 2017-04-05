@@ -1,0 +1,1 @@
+Aplicatie simpla de chat. Porniti serverul ruland "python server.py" din consola. Aplicatia accepta maxim 5 clienti care vor fi adaugati scriind "python server.py", pe rand, fiecare intr un termina. Fiecare nume de utilizator o sa fie afisat doar celorlalti clienti.
